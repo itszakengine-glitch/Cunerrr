@@ -1,0 +1,6 @@
+{
+  "name": "ItsEngine",
+  "description": "High-performance gaming physics utility and floating calibration overlay for 8 Ball Pool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
